@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 src/componentes/Time/index.js,5\7\57e7d3554f182184fd0f6427328e43ff2727e9ea
 M
@@ -12,3 +10,5 @@ $src/componentes/Colaborador/index.js,1\a\1a095d51415a456e38bb86f18cb05ee3f3db4
 :
 
 src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
